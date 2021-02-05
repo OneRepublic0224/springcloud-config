@@ -1,1 +1,2 @@
-
+config:
+  info: "test环境下的配置文件"
