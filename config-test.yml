@@ -1,2 +1,2 @@
 config:
-  info: "test环境下的配置文件,重新修改了config客户端.增加了bus消息总线"
+  info: "test环境下的配置文件,重新修改了config客户端.增加了bus消息总线,指定目标修改"
